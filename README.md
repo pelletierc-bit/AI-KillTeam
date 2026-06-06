@@ -56,7 +56,7 @@ If the AI climbs:
 ---
 
 ## Project Structure
-Final-Project/
+KillTeam AI Oponent Final Draft.zip/
 │
 ├── main.py
 ├── ai_operative.py
