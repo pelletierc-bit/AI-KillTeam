@@ -116,6 +116,22 @@ It serves as the final project submission for the Python programming course.
 
 ---
 
+## 🎥 Project Videos
+
+### **Code Demo**
+This video demonstrates the program running through a full round, including initiative, AI positioning, and shooting logic.
+
+🔗 **Demo Video:**  
+[ https://youtu.be/T8n9oVGWgw0 ](https://youtu.be/T8n9oVGWgw0)
+
+### **Walkthrough Presentation**
+This video is my 3–5 minute walkthrough explaining the project’s purpose, structure, core logic, challenges, and future improvements.
+
+🔗 **Walkthrough Video:**  
+https://www.youtube.com/watch?v=YOUR_WALKTHROUGH_LINK_HERE
+
+---
+
 ## 📝 Citations
 
 All code, logic structures, and design decisions in this project were created by the author as part of a Python programming final project.  
