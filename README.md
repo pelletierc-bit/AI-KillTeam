@@ -128,7 +128,7 @@ This video demonstrates the program running through a full round, including init
 This video is my 3–5 minute walkthrough explaining the project’s purpose, structure, core logic, challenges, and future improvements.
 
 🔗 **Walkthrough Video:**  
-https://www.youtube.com/watch?v=YOUR_WALKTHROUGH_LINK_HERE
+[https://www.youtube.com/watch?v=YOUR_WALKTHROUGH_LINK_HERE](https://youtu.be/ab87G6DNyFg)
 
 ---
 
