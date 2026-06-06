@@ -6,7 +6,7 @@ It is designed as a Python final project demonstrating object‑oriented program
 
 ---
 
-## 🎮 Gameplay Overview
+## Gameplay Overview
 
 Each turn is divided into two phases:
 
@@ -29,33 +29,33 @@ Each turn is divided into two phases:
 
 ---
 
-## 🧠 Features
+## Features
 
-### ✔ Start‑of‑Game Roll‑Off
+### Start‑of‑Game Roll‑Off
 Both sides roll a d6 to determine who goes first. Ties reroll.
 
-### ✔ Closest‑Enemy Targeting
+### Closest‑Enemy Targeting
 The AI always focuses the nearest player operative based on distances you enter each turn.
 
-### ✔ Climbing Logic
+### Climbing Logic
 If the AI climbs:
 - Climb height is subtracted from its movement.
 - Remaining movement is applied toward or away from the target.
 
-### ✔ Encapsulated OOP Design
+### Encapsulated OOP Design
 - `AIOperative` class handles stats, movement, climbing, shooting, and saves.
 - `AITeam` manages multiple AI operatives.
 - `PlayerTeam` manages player operatives.
 - Getter/setter used for range tracking.
 
-### ✔ Interactive Combat
+### Interactive Combat
 - Player attacks include hit/miss and damage.
 - AI attacks include hit rolls and randomized damage.
 - Armor saves reduce or negate damage.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 Final-Project/
 │
 ├── main.py
@@ -67,7 +67,7 @@ Final-Project/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Install Python 3.10+  
 2. Open a terminal in the project folder  
@@ -76,7 +76,7 @@ Final-Project/
 
 ---
 
-## 📘 File Descriptions
+## File Descriptions
 
 ### **main.py**
 Controls:
@@ -102,7 +102,7 @@ Creates and manages the player team.
 ---
 
 
-## 🎯 Purpose
+## Purpose
 
 This project demonstrates:
 - Object‑oriented programming  
@@ -116,13 +116,13 @@ It serves as the final project submission for the Python programming course.
 
 ---
 
-## 🎥 Project Videos
+## Project Videos
 
 ### **Code Demo**
 This video demonstrates the program running through a full round, including initiative, AI positioning, and shooting logic.
 
 🔗 **Demo Video:**  
-[ Demo](https://youtu.be/T8n9oVGWgw0)
+[Demo](https://youtu.be/T8n9oVGWgw0)
 
 ### **Walkthrough Presentation**
 This video is my 3–5 minute walkthrough explaining the project’s purpose, structure, core logic, challenges, and future improvements.
@@ -132,7 +132,7 @@ This video is my 3–5 minute walkthrough explaining the project’s purpose, st
 
 ---
 
-## 📝 Citations
+## Citations
 
 All code, logic structures, and design decisions in this project were created by the author as part of a Python programming final project.  
 This work represents original development, including:
